@@ -75,5 +75,5 @@ To prevent ambiguity, utilize the **CRediT (Contributor Roles Taxonomy)**. Inste
 
 These principles require specific tools to implement effectively. Please refer to the specific protocol for your discipline:
 
-* [**Protocol A: Computational Workflow**]({% link protocol_computational.md %}) (Code-heavy).
-* [**Protocol B: Manuscript Workflow**]({% link protocol_manuscript.md %}) (Document-heavy).
+* [**Protocol A: Computational Workflow**]({{ site.baseurl }}/protocol_computational/) (Code-heavy).
+* [**Protocol B: Manuscript Workflow**]({{ site.baseurl }}/protocol_manuscript/) (Document-heavy).

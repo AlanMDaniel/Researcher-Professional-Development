@@ -19,7 +19,7 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 
 ## **Core Modules**
 
-### **🛡️ [The Strategy: Agency & Continuity]({% link principles_of_agency.md %})**
+### **🛡️ [The Strategy: Agency & Continuity]({{ site.baseurl }}/principles_of_agency/)**
 
 **Start Here.** The foundational principles of protecting your career.
 
@@ -27,7 +27,7 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 * **The Paper Trail:** How to convert verbal promises into written records.
 * **The Witness Network:** How to diversify your mentorship to prevent isolation.
 
-### **💻 [Protocol A: The Computational Workflow]({% link protocol_computational.md %})**
+### **💻 [Protocol A: The Computational Workflow]({{ site.baseurl }}/protocol_computational/)**
 
 **For Coders & Data Scientists.**
 
@@ -35,7 +35,7 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 * How to use **Zenodo** to mint immutable DOIs for your software.
 * How to use cryptographic hashing as a "poor man's notary."
 
-### **📝 [Protocol B: The Manuscript Workflow]({% link protocol_manuscript.md %})**
+### **📝 [Protocol B: The Manuscript Workflow]({{ site.baseurl }}/protocol_manuscript/)**
 
 **For Humanities & Qualitative Researchers.**
 
@@ -43,7 +43,7 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 * How to use the **Open Science Framework (OSF)** to timestamp manuscripts and archives without learning code.
 * How to verify the existence of sensitive/offline data.
 
-### **🚨 [Emergency Protocols]({% link crisis_guide.md %})**
+### **🚨 [Emergency Protocols]({{ site.baseurl }}/crisis_guide/)**
 
 **For the Currently Aggrieved.**
 
