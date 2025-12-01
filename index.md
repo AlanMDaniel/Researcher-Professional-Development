@@ -19,52 +19,52 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 
 ## **Core Modules**
 
-### **🛡️ [The Strategy: Agency & Continuity](https://www.google.com/search?q=principles_of_agency.md)**
+### **🛡️ [The Strategy: Agency & Continuity]({% link principles_of_agency.md %})**
 
 **Start Here.** The foundational principles of protecting your career.
 
-* **The Rule of Three:** Why your data must exist in three places.  
-* **The Paper Trail:** How to convert verbal promises into written records.  
+* **The Rule of Three:** Why your data must exist in three places.
+* **The Paper Trail:** How to convert verbal promises into written records.
 * **The Witness Network:** How to diversify your mentorship to prevent isolation.
 
-### **💻 [Protocol A: The Computational Workflow](https://www.google.com/search?q=protocol_computational.md)**
+### **💻 [Protocol A: The Computational Workflow]({% link protocol_computational.md %})**
 
 **For Coders & Data Scientists.**
 
-* How to use **GitHub Forks** to retain ownership of your code history.  
-* How to use **Zenodo** to mint immutable DOIs for your software.  
+* How to use **GitHub Forks** to retain ownership of your code history.
+* How to use **Zenodo** to mint immutable DOIs for your software.
 * How to use cryptographic hashing as a "poor man's notary."
 
-### **📝 [Protocol B: The Manuscript Workflow](https://www.google.com/search?q=protocol_manuscript.md)**
+### **📝 [Protocol B: The Manuscript Workflow]({% link protocol_manuscript.md %})**
 
 **For Humanities & Qualitative Researchers.**
 
-* How to escape the "Dropbox Trap" and prevent accidental deletion.  
-* How to use the **Open Science Framework (OSF)** to timestamp manuscripts and archives without learning code.  
+* How to escape the "Dropbox Trap" and prevent accidental deletion.
+* How to use the **Open Science Framework (OSF)** to timestamp manuscripts and archives without learning code.
 * How to verify the existence of sensitive/offline data.
 
-### **🚨 [Emergency Protocols](https://www.google.com/search?q=crisis_guide.md)**
+### **🚨 [Emergency Protocols]({% link crisis_guide.md %})**
 
 **For the Currently Aggrieved.**
 
-* What to do *immediately* if you are being ghosted on a paper.  
-* The "Go Bag": How to secure your IP before you lose access.  
+* What to do *immediately* if you are being ghosted on a paper.
+* The "Go Bag": How to secure your IP before you lose access.
 * Legal realities of recording meetings (One-Party vs. Two-Party consent).
 
 ## **External Resources**
 
-* [**The PACK Protocol (OpenProtocols)**](https://openprotocols.github.io/PACK/)  
-  * A comprehensive guide to "Practical Academic Communication Knowledge." Use this for templates on how to email professors, negotiate deadlines, and manage "up."  
-* [**The Academic Parity Movement**](https://paritymovement.org)  
-  * A non-profit dedicated to ending academic bullying. They provide legal resources and case support for targets of harassment.  
-* [**The "White Hat" SOPs**](https://www.google.com/search?q=https://your-white-hat-site-url.github.io) *(External Link)*  
+* [**The PACK Protocol (OpenProtocols)**](https://openprotocols.github.io/PACK/)
+  * A comprehensive guide to "Practical Academic Communication Knowledge." Use this for templates on how to email professors, negotiate deadlines, and manage "up."
+* [**The Academic Parity Movement**](https://paritymovement.org)
+  * A non-profit dedicated to ending academic bullying. They provide legal resources and case support for targets of harassment.
+* [**The "White Hat" SOPs**](https://github.com/) *(External Link)*
   * *Tactical Usage:* Need to convince your lab to adopt these tools without having an awkward conversation about trust? Send your PI this link. It frames these protections as "NIH Compliance" and "Audit Readiness."
 
 ## **Contributing**
 
 This is a living document. If you have a strategy that worked for you, or a correction based on university policy, please open an Issue or submit a Pull Request.
 
-* [Report a Broken Link/Strategy](https://www.google.com/search?q=https://github.com/YourUsername/Repo/issues)  
-* [Suggest a New Module](https://www.google.com/search?q=https://github.com/YourUsername/Repo/issues)
+* [Report a Broken Link/Strategy](https://github.com/)
+* [Suggest a New Module](https://github.com/)
 
 *Disclaimer: This guide provides professional advice, not legal advice. If you are facing a legal threat, Title IX violation, or research misconduct allegation, contact a specialized attorney.*
