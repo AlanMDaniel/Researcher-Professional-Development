@@ -9,3 +9,4 @@ plugins:
 
 url: "https://alanmdaniel.github.io" 
 baseurl: "/Researcher-Professional-Development"
+permalink: pretty
