@@ -64,7 +64,7 @@ This guide is not anti-science; it is pro-scientist. It leverages the tools of O
 
 This is a living document. If you have a strategy that worked for you, or a correction based on university policy, please open an Issue or submit a Pull Request.
 
-* [Report a Broken Link/Strategy](https://github.com/)
-* [Suggest a New Module](https://github.com/)
+* [Report a Broken Link/Strategy](https://github.com/alanmdaniel/Researcher-Professional-Development/issues)
+* [Suggest a New Module](https://github.com/alanmdaniel/Researcher-Professional-Development/pulls)
 
 *Disclaimer: This guide provides professional advice, not legal advice. If you are facing a legal threat, Title IX violation, or research misconduct allegation, contact a specialized attorney.*
