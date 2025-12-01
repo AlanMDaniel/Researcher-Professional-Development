@@ -7,6 +7,6 @@ show_downloads: false
 plugins:
   - jekyll-seo-tag
 
-url: "https://alanmdaniel.github.io" 
+url: "https://alanmdaniel.github.io"
 baseurl: "/Researcher-Professional-Development"
 permalink: pretty
