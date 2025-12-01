@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Academic Agency & Data Continuity 
-description: Best practices for graduate students and postdocs to protect their research. Covers backup strategies, email archiving, and preventing authorship disputes. 
+title: Academic Agency & Data Continuity
+description: Best practices for graduate students and postdocs to protect their research. Covers backup strategies, email archiving, and preventing authorship disputes.
 keywords: PhD advice, grad student protection, research continuity, authorship MOU, academic agency, postdoc rights
 ---
 
@@ -20,9 +20,9 @@ University infrastructure is temporary. Your access to servers, email, and cloud
 **The Rule of Three:**
 Data should exist in three places:
 
-1.  **The Lab Environment:** The shared server or Box folder where collaboration happens.
-2.  **The Local Machine:** A copy on your physical workstation for offline access.
-3.  **The Personal Archive:** A private, off-site backup (personal hard drive or personal cloud account) that ensures you retain access to your intellectual property if institutional access is interrupted.
+1. **The Lab Environment:** The shared server or Box folder where collaboration happens.
+2. **The Local Machine:** A copy on your physical workstation for offline access.
+3. **The Personal Archive:** A private, off-site backup (personal hard drive or personal cloud account) that ensures you retain access to your intellectual property if institutional access is interrupted.
 
 **CRITICAL WARNING: Restricted Data vs. Your IP**
 You must distinguish between Restricted Source Data and Your Intellectual Property.
