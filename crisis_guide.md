@@ -23,12 +23,19 @@ Before you make any formal complaint, you must secure your data. Once a conflict
 * **Do Secure Your IP:** You have a right to your *methodology*, *code*, *manuscripts*, and *notes*.  
 * **Method:** Use git to push code to a private personal repository. Use local email clients to archive correspondence.
 
-### **2\. The "Soft" Correction Strategy**
+### **2. The "Soft" Correction Strategy**
 
 If you have been left off a paper, do not immediately accuse the PI of fraud. Frame it as an administrative error to give them a face-saving exit.
 
-* **The Email:** "Hi \[PI\], I saw the new preprint\! It looks great. I noticed my name was missing from the author list, which I assume is just a clerical error given that the analysis relies on the code I wrote in \[Month/Year\]. Let me know if you need me to contact the journal to update the metadata."  
-* **The Trap:** If they admit it was an error, you win. If they deny your contribution, you now have written proof of their refusal, which is required for any future inquiry.
+**The Email Template:**
+> "Hi [PI],
+>
+> I saw the new preprint! It looks great. I noticed my name was missing from the author list, which I assume is just a clerical error given that the analysis relies on the code I wrote in [Month/Year].
+>
+> Let me know if you need me to contact the journal to update the metadata."
+
+**The Trap:**
+If they admit it was an error, you win. If they deny your contribution, you now have written proof of their refusal, which is required for any future inquiry.
 
 ## **Phase 2: Documentation & Recording**
 

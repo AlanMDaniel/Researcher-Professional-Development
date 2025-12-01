@@ -11,17 +11,23 @@ keywords: git fork, zenodo doi, protect my code, github for academics, code auth
 
 This protocol provides the technical steps to implement Digital Sovereignty using version control systems. It is designed for researchers using Python, R, MATLAB, or other scripting languages.
 
-## **1\. The Fork Protocol (Ownership)**
+## **1. The Fork Protocol (Ownership)**
 
-When working on a project hosted in a laboratory organization account (e.g., github.com/LabName/Project), you do not own the repository. To ensure you retain a copy of your contribution:
+When working on a project hosted in a laboratory organization account (e.g., `github.com/LabName/Project`), you do not own the repository. To ensure you retain a copy of your contribution:
 
-Create a Fork:  
-Do not just clone the lab repo. Click the "Fork" button in the top right corner of the GitHub interface to create a copy under your personal username (github.com/YourName/Project).  
-Configure Remotes:  
-Set up your local environment to push to both the lab (for collaboration) and your personal fork (for backup).  
-git remote add upstream \[https://github.com/LabName/Project.git\](https://github.com/LabName/Project.git)  
-git remote add origin \[https://github.com/YourName/Project.git\](https://github.com/YourName/Project.git)
+**Create a Fork:**
+Do not just clone the lab repo. Click the "Fork" button in the top right corner of the GitHub interface to create a copy under your personal username (`github.com/YourName/Project`).
 
+**Configure Remotes:**
+Set up your local environment to push to both the lab (for collaboration) and your personal fork (for backup).
+
+```bash
+# Add the lab repository as 'upstream'
+git remote add upstream [https://github.com/LabName/Project.git](https://github.com/LabName/Project.git)
+
+# Add your fork as 'origin'
+git remote add origin [https://github.com/YourName/Project.git](https://github.com/YourName/Project.git)
+```
 Daily Workflow:  
 Push your work to your personal fork (origin) daily. Submit Pull Requests to the lab repo (upstream) when ready for review. This ensures your commit history is preserved even if the lab repo is deleted or your access is revoked.
 
