@@ -1,0 +1,9 @@
+
+title: The Graduate Researcher's Field Guide
+description: Survival protocols for IP protection and professional agency in academia.
+theme: jekyll-theme-minimal
+logo: /assets/social-preview.png
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+
